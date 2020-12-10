@@ -21,7 +21,7 @@ repositories {
 }
 
 launch4j {
-  mainClassName = 'com.example.myapp.Start'
+  mainClassName = 'SwingDemo'
 }
 
 // In this section you declare the dependencies for your production and test code
